@@ -1,0 +1,5 @@
+index:
+    path: /
+    controller: App\Controller\BaseController::BaseAction
+    options:
+        expose: true
